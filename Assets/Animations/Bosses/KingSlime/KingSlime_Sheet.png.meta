@@ -1,0 +1,1690 @@
+fileFormatVersion: 2
+guid: a6412e2b5f5a49da88b660a5bef77d91
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 742822602098147093
+    second: KingSlime_Idle_Down_0
+  - first:
+      213: 426386140662245736
+    second: KingSlime_Idle_Down_1
+  - first:
+      213: 603481397266719905
+    second: KingSlime_Idle_Down_2
+  - first:
+      213: 821934173706352168
+    second: KingSlime_Idle_Down_3
+  - first:
+      213: 751163001944179277
+    second: KingSlime_Idle_Up_0
+  - first:
+      213: 420139159404146740
+    second: KingSlime_Idle_Up_1
+  - first:
+      213: 1081300789209913565
+    second: KingSlime_Idle_Up_2
+  - first:
+      213: 772106545346686139
+    second: KingSlime_Idle_Up_3
+  - first:
+      213: 757895093018957777
+    second: KingSlime_Idle_Side_0
+  - first:
+      213: 1069001181435968647
+    second: KingSlime_Idle_Side_1
+  - first:
+      213: 886515272682160615
+    second: KingSlime_Idle_Side_2
+  - first:
+      213: 605315097727281837
+    second: KingSlime_Idle_Side_3
+  - first:
+      213: 349037030544292726
+    second: KingSlime_Walk_Down_0
+  - first:
+      213: 1102352797801218337
+    second: KingSlime_Walk_Down_1
+  - first:
+      213: 41481146942365312
+    second: KingSlime_Walk_Down_2
+  - first:
+      213: 480245945834382529
+    second: KingSlime_Walk_Down_3
+  - first:
+      213: 569739530769715957
+    second: KingSlime_Walk_Down_4
+  - first:
+      213: 471412369900603401
+    second: KingSlime_Walk_Down_5
+  - first:
+      213: 458279039195125158
+    second: KingSlime_Walk_Up_0
+  - first:
+      213: 1057593235925134772
+    second: KingSlime_Walk_Up_1
+  - first:
+      213: 1137252126005606351
+    second: KingSlime_Walk_Up_2
+  - first:
+      213: 1022232887341653389
+    second: KingSlime_Walk_Up_3
+  - first:
+      213: 207870260515361462
+    second: KingSlime_Walk_Up_4
+  - first:
+      213: 134852730546261916
+    second: KingSlime_Walk_Up_5
+  - first:
+      213: 120743846137142078
+    second: KingSlime_Walk_Side_0
+  - first:
+      213: 481504398558715282
+    second: KingSlime_Walk_Side_1
+  - first:
+      213: 323429485754750975
+    second: KingSlime_Walk_Side_2
+  - first:
+      213: 154826807386948315
+    second: KingSlime_Walk_Side_3
+  - first:
+      213: 222333659893977991
+    second: KingSlime_Walk_Side_4
+  - first:
+      213: 811718298387097296
+    second: KingSlime_Walk_Side_5
+  - first:
+      213: 317265876948466126
+    second: KingSlime_Attack_Down_0
+  - first:
+      213: 578417794210464247
+    second: KingSlime_Attack_Down_1
+  - first:
+      213: 1022698173834911274
+    second: KingSlime_Attack_Up_0
+  - first:
+      213: 1041915239848326553
+    second: KingSlime_Attack_Up_1
+  - first:
+      213: 482080683956945571
+    second: KingSlime_Attack_Side_0
+  - first:
+      213: 753130510661851430
+    second: KingSlime_Attack_Side_1
+  - first:
+      213: 942070719243815127
+    second: KingSlime_Slam_Down_0
+  - first:
+      213: 725496570524763471
+    second: KingSlime_Slam_Down_1
+  - first:
+      213: 933146461688853852
+    second: KingSlime_Slam_Up_0
+  - first:
+      213: 750107521257391603
+    second: KingSlime_Slam_Up_1
+  - first:
+      213: 421519895111162793
+    second: KingSlime_Slam_Side_0
+  - first:
+      213: 1087230089484038732
+    second: KingSlime_Slam_Side_1
+  - first:
+      213: 317268917060839361
+    second: KingSlime_Charge_Down_0
+  - first:
+      213: 605003580244934201
+    second: KingSlime_Charge_Down_1
+  - first:
+      213: 695996673540034337
+    second: KingSlime_Charge_Down_2
+  - first:
+      213: 620821162298326809
+    second: KingSlime_Charge_Down_3
+  - first:
+      213: 55847795552454361
+    second: KingSlime_Charge_Down_4
+  - first:
+      213: 835998983990863165
+    second: KingSlime_Charge_Down_5
+  - first:
+      213: 172948159685612394
+    second: KingSlime_Charge_Up_0
+  - first:
+      213: 129125593222345224
+    second: KingSlime_Charge_Up_1
+  - first:
+      213: 7056107879491512
+    second: KingSlime_Charge_Up_2
+  - first:
+      213: 617885654350281077
+    second: KingSlime_Charge_Up_3
+  - first:
+      213: 446261224737360106
+    second: KingSlime_Charge_Up_4
+  - first:
+      213: 395413610417797219
+    second: KingSlime_Charge_Up_5
+  - first:
+      213: 369034039587028335
+    second: KingSlime_Charge_Side_0
+  - first:
+      213: 837572996000092868
+    second: KingSlime_Charge_Side_1
+  - first:
+      213: 810211709616722221
+    second: KingSlime_Charge_Side_2
+  - first:
+      213: 594973378784747724
+    second: KingSlime_Charge_Side_3
+  - first:
+      213: 489863458293082520
+    second: KingSlime_Charge_Side_4
+  - first:
+      213: 1048967800766018427
+    second: KingSlime_Charge_Side_5
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KingSlime_Idle_Down_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f09389130ff1568446858b08c6453c
+      internalID: 742822602098147093
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Idle_Down_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ead3ef9352a96856d4a2b0d196da4ce
+      internalID: 426386140662245736
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Idle_Down_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85fff2228a3a4a1766c671f33df51dba
+      internalID: 603481397266719905
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Idle_Down_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6818c6b485762886790b9af8fe97e23
+      internalID: 821934173706352168
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Idle_Up_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6caac53b4c824dc100ad626d48c3088
+      internalID: 751163001944179277
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Idle_Up_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4a256e883f0342782030b6fbc1f12a
+      internalID: 420139159404146740
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Idle_Up_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f018d56bc34d8dd6babcc9c0dbcf42a1
+      internalID: 1081300789209913565
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Idle_Up_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab712cfec24acbbf07891f05b23261be
+      internalID: 772106545346686139
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Idle_Side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a849592546817d152db8369cd2de4790
+      internalID: 757895093018957777
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Idle_Side_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5dae923f6bc87b3a4cac8eabda9b3e
+      internalID: 1069001181435968647
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Idle_Side_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d88f18c2dc1e77db42e1b8aa36556b
+      internalID: 886515272682160615
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Idle_Side_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86682dfd1372aaddb369bdb94e30b0fa
+      internalID: 605315097727281837
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Walk_Down_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d807547b0cbb76b505bce548fc2e959
+      internalID: 349037030544292726
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Walk_Down_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c580772198121c2db4f5d97d70f1ac
+      internalID: 1102352797801218337
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Walk_Down_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0935ee224601e80f23218e272064811b
+      internalID: 41481146942365312
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Walk_Down_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa2d24ae47a4c1b49085a2e03a873c8
+      internalID: 480245945834382529
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Walk_Down_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e81f15aa06d2f547d9b5444dc44c70f
+      internalID: 569739530769715957
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Walk_Down_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68acb0d82a6880901875a92e99964f15
+      internalID: 471412369900603401
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Walk_Up_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c225bab3b95a6ddb7071ccf92ee458
+      internalID: 458279039195125158
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Walk_Up_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead5371d82c6db476d8710c0513cb91c
+      internalID: 1057593235925134772
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Walk_Up_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc854c87e9f37cf6ccf4cec4f5ec6578
+      internalID: 1137252126005606351
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Walk_Up_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2fb3651fb89d8d2394c587288aadecb
+      internalID: 1022232887341653389
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Walk_Up_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e280e68d62d2b64917e172521a9d70c
+      internalID: 207870260515361462
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Walk_Up_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df17d80d338f9cee7a1ef8859ee1fbc
+      internalID: 134852730546261916
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Walk_Side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1acf7e369d19b3e393f85540440ef4d5
+      internalID: 120743846137142078
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Walk_Side_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aea5b309e15d92499e6f9ee2bea11f6
+      internalID: 481504398558715282
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Walk_Side_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d0d67584c97ff12f69365875c485a9
+      internalID: 323429485754750975
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Walk_Side_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2260e293801c2db62f26660347c41ddc
+      internalID: 154826807386948315
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Walk_Side_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315e3492397d387837e001b4c9eb1f77
+      internalID: 222333659893977991
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Walk_Side_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43cd7de10c26d0c0084fdcec6214432
+      internalID: 811718298387097296
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Attack_Down_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46727a256ddb9cebee49af3b11dda6b8
+      internalID: 317265876948466126
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Attack_Down_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806f3eb53ae01f799e84960d8ff914a8
+      internalID: 578417794210464247
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Attack_Up_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e315a9213dede2a089e3ba26027ddc6e
+      internalID: 1022698173834911274
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Attack_Up_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75a063ed39b599545eb1147669bddfb
+      internalID: 1041915239848326553
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Attack_Side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0b1d3f054c2a34f27e3153d7d8bb8d
+      internalID: 482080683956945571
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Attack_Side_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73a8358d821926aaf61039a9b1afbba
+      internalID: 753130510661851430
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Slam_Down_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12e853edd308d75d8a430863f82e7f4
+      internalID: 942070719243815127
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Slam_Down_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a117b497be4854fd2ffdb323e6be69d4
+      internalID: 725496570524763471
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Slam_Up_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf333c34c60755c1aecd2e06fc0a3641
+      internalID: 933146461688853852
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Slam_Up_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68ead0fbe545f313c08a0d33abd6959
+      internalID: 750107521257391603
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Slam_Side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d98a1c7ddc5ba9c8c994d36352d3263
+      internalID: 421519895111162793
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Slam_Side_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f169e0188cff24cbba8b4f552a351d67
+      internalID: 1087230089484038732
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Charge_Down_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4672a662baf27c1d4219462fc2355bad
+      internalID: 317268917060839361
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Charge_Down_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865678d0056be3961d399c1b56484c03
+      internalID: 605003580244934201
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Charge_Down_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8ad497b350f2141f9fc63787f9f457
+      internalID: 695996673540034337
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Charge_Down_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d998ecfd63f19a1186ac0b399c167c
+      internalID: 620821162298326809
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Charge_Down_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c669462f6486d973c5e5ef86e40945e
+      internalID: 55847795552454361
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Charge_Down_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a10a5895ce53d501b32218d057c4cf
+      internalID: 835998983990863165
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Charge_Up_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2666f6f569e536af14e71dbf6e69a283
+      internalID: 172948159685612394
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Charge_Up_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cabf0afb6df208f8f8d6edc877bebaa
+      internalID: 129125593222345224
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Charge_Up_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019117e23a767b84dbf8b94ac2557840
+      internalID: 7056107879491512
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Charge_Up_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8932bba9b5bb975a425731178baabbcb
+      internalID: 617885654350281077
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Charge_Up_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6317038318048ea1b086ca7b8fbf8694
+      internalID: 446261224737360106
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Charge_Up_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57cca956c4eb8635bf32f4caa4edb26f
+      internalID: 395413610417797219
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Charge_Side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f1280f79cbd6fd3569be96bb01e55a
+      internalID: 369034039587028335
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Charge_Side_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9fa833c40b92c429fc3fc648af2eb6d
+      internalID: 837572996000092868
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Charge_Side_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e7341d891112da17aeca303a288067
+      internalID: 810211709616722221
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Charge_Side_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841c522bd4760cc6ddfc6ec96a46f50b
+      internalID: 594973378784747724
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Charge_Side_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc58384c00e99878b77cd0923d25027
+      internalID: 489863458293082520
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime_Charge_Side_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8eaea8397b337bab8bb8d35c405c4d8
+      internalID: 1048967800766018427
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    outline: []
+    customData:
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices:
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      KingSlime_Idle_Down_0: 742822602098147093
+      KingSlime_Idle_Down_1: 426386140662245736
+      KingSlime_Idle_Down_2: 603481397266719905
+      KingSlime_Idle_Down_3: 821934173706352168
+      KingSlime_Idle_Up_0: 751163001944179277
+      KingSlime_Idle_Up_1: 420139159404146740
+      KingSlime_Idle_Up_2: 1081300789209913565
+      KingSlime_Idle_Up_3: 772106545346686139
+      KingSlime_Idle_Side_0: 757895093018957777
+      KingSlime_Idle_Side_1: 1069001181435968647
+      KingSlime_Idle_Side_2: 886515272682160615
+      KingSlime_Idle_Side_3: 605315097727281837
+      KingSlime_Walk_Down_0: 349037030544292726
+      KingSlime_Walk_Down_1: 1102352797801218337
+      KingSlime_Walk_Down_2: 41481146942365312
+      KingSlime_Walk_Down_3: 480245945834382529
+      KingSlime_Walk_Down_4: 569739530769715957
+      KingSlime_Walk_Down_5: 471412369900603401
+      KingSlime_Walk_Up_0: 458279039195125158
+      KingSlime_Walk_Up_1: 1057593235925134772
+      KingSlime_Walk_Up_2: 1137252126005606351
+      KingSlime_Walk_Up_3: 1022232887341653389
+      KingSlime_Walk_Up_4: 207870260515361462
+      KingSlime_Walk_Up_5: 134852730546261916
+      KingSlime_Walk_Side_0: 120743846137142078
+      KingSlime_Walk_Side_1: 481504398558715282
+      KingSlime_Walk_Side_2: 323429485754750975
+      KingSlime_Walk_Side_3: 154826807386948315
+      KingSlime_Walk_Side_4: 222333659893977991
+      KingSlime_Walk_Side_5: 811718298387097296
+      KingSlime_Attack_Down_0: 317265876948466126
+      KingSlime_Attack_Down_1: 578417794210464247
+      KingSlime_Attack_Up_0: 1022698173834911274
+      KingSlime_Attack_Up_1: 1041915239848326553
+      KingSlime_Attack_Side_0: 482080683956945571
+      KingSlime_Attack_Side_1: 753130510661851430
+      KingSlime_Slam_Down_0: 942070719243815127
+      KingSlime_Slam_Down_1: 725496570524763471
+      KingSlime_Slam_Up_0: 933146461688853852
+      KingSlime_Slam_Up_1: 750107521257391603
+      KingSlime_Slam_Side_0: 421519895111162793
+      KingSlime_Slam_Side_1: 1087230089484038732
+      KingSlime_Charge_Down_0: 317268917060839361
+      KingSlime_Charge_Down_1: 605003580244934201
+      KingSlime_Charge_Down_2: 695996673540034337
+      KingSlime_Charge_Down_3: 620821162298326809
+      KingSlime_Charge_Down_4: 55847795552454361
+      KingSlime_Charge_Down_5: 835998983990863165
+      KingSlime_Charge_Up_0: 172948159685612394
+      KingSlime_Charge_Up_1: 129125593222345224
+      KingSlime_Charge_Up_2: 7056107879491512
+      KingSlime_Charge_Up_3: 617885654350281077
+      KingSlime_Charge_Up_4: 446261224737360106
+      KingSlime_Charge_Up_5: 395413610417797219
+      KingSlime_Charge_Side_0: 369034039587028335
+      KingSlime_Charge_Side_1: 837572996000092868
+      KingSlime_Charge_Side_2: 810211709616722221
+      KingSlime_Charge_Side_3: 594973378784747724
+      KingSlime_Charge_Side_4: 489863458293082520
+      KingSlime_Charge_Side_5: 1048967800766018427
+  mipmapLimitGroupName:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:

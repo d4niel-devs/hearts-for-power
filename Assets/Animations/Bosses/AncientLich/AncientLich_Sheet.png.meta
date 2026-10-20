@@ -1,0 +1,2002 @@
+fileFormatVersion: 2
+guid: 89efe3ac7ac0213f8e6acca96f56ba90
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1124370442675747821
+    second: AncientLich_Idle_Down_0
+  - first:
+      213: 139843791141942979
+    second: AncientLich_Idle_Down_1
+  - first:
+      213: 1105650132343837640
+    second: AncientLich_Idle_Down_2
+  - first:
+      213: 483788425721570145
+    second: AncientLich_Idle_Down_3
+  - first:
+      213: 114713320573251759
+    second: AncientLich_Idle_Up_0
+  - first:
+      213: 510190647868088099
+    second: AncientLich_Idle_Up_1
+  - first:
+      213: 572362221828986654
+    second: AncientLich_Idle_Up_2
+  - first:
+      213: 886068514987186327
+    second: AncientLich_Idle_Up_3
+  - first:
+      213: 1086453681220699607
+    second: AncientLich_Idle_Side_0
+  - first:
+      213: 725838079097468353
+    second: AncientLich_Idle_Side_1
+  - first:
+      213: 681772754705842527
+    second: AncientLich_Idle_Side_2
+  - first:
+      213: 598350751883775570
+    second: AncientLich_Idle_Side_3
+  - first:
+      213: 887225213402918753
+    second: AncientLich_Walk_Down_0
+  - first:
+      213: 244174093719622672
+    second: AncientLich_Walk_Down_1
+  - first:
+      213: 354778315731516163
+    second: AncientLich_Walk_Down_2
+  - first:
+      213: 392150762628761285
+    second: AncientLich_Walk_Down_3
+  - first:
+      213: 808585914206504017
+    second: AncientLich_Walk_Down_4
+  - first:
+      213: 292058475425298701
+    second: AncientLich_Walk_Down_5
+  - first:
+      213: 408537598916383514
+    second: AncientLich_Walk_Up_0
+  - first:
+      213: 837604286968401336
+    second: AncientLich_Walk_Up_1
+  - first:
+      213: 204867616495123142
+    second: AncientLich_Walk_Up_2
+  - first:
+      213: 684144057252603720
+    second: AncientLich_Walk_Up_3
+  - first:
+      213: 1021390446297816594
+    second: AncientLich_Walk_Up_4
+  - first:
+      213: 31956914485361347
+    second: AncientLich_Walk_Up_5
+  - first:
+      213: 509298638254563008
+    second: AncientLich_Walk_Side_0
+  - first:
+      213: 13114665699612297
+    second: AncientLich_Walk_Side_1
+  - first:
+      213: 213501762848315413
+    second: AncientLich_Walk_Side_2
+  - first:
+      213: 347465346610019139
+    second: AncientLich_Walk_Side_3
+  - first:
+      213: 457627474487736881
+    second: AncientLich_Walk_Side_4
+  - first:
+      213: 651492050324050384
+    second: AncientLich_Walk_Side_5
+  - first:
+      213: 635900625813315237
+    second: AncientLich_Attack_Down_0
+  - first:
+      213: 867027840925809590
+    second: AncientLich_Attack_Down_1
+  - first:
+      213: 1123095346034237804
+    second: AncientLich_Attack_Down_2
+  - first:
+      213: 1080077581762746295
+    second: AncientLich_Attack_Down_3
+  - first:
+      213: 206202612204554406
+    second: AncientLich_Attack_Up_0
+  - first:
+      213: 1079673643281306775
+    second: AncientLich_Attack_Up_1
+  - first:
+      213: 181808623872399714
+    second: AncientLich_Attack_Up_2
+  - first:
+      213: 717243688063180913
+    second: AncientLich_Attack_Up_3
+  - first:
+      213: 440757922107219975
+    second: AncientLich_Attack_Side_0
+  - first:
+      213: 480944574659036363
+    second: AncientLich_Attack_Side_1
+  - first:
+      213: 372871554683870494
+    second: AncientLich_Attack_Side_2
+  - first:
+      213: 861791795349912339
+    second: AncientLich_Attack_Side_3
+  - first:
+      213: 738768680279386873
+    second: AncientLich_Slam_Down_0
+  - first:
+      213: 507202658819162998
+    second: AncientLich_Slam_Down_1
+  - first:
+      213: 933359101117471652
+    second: AncientLich_Slam_Down_2
+  - first:
+      213: 1058082269155204694
+    second: AncientLich_Slam_Down_3
+  - first:
+      213: 1259033281998911
+    second: AncientLich_Slam_Up_0
+  - first:
+      213: 112818440073895003
+    second: AncientLich_Slam_Up_1
+  - first:
+      213: 1044444031091504105
+    second: AncientLich_Slam_Up_2
+  - first:
+      213: 1032529964474129785
+    second: AncientLich_Slam_Up_3
+  - first:
+      213: 290132452362278047
+    second: AncientLich_Slam_Side_0
+  - first:
+      213: 418219695218675911
+    second: AncientLich_Slam_Side_1
+  - first:
+      213: 192575936169484450
+    second: AncientLich_Slam_Side_2
+  - first:
+      213: 176079716875360430
+    second: AncientLich_Slam_Side_3
+  - first:
+      213: 937298644697070079
+    second: AncientLich_Charge_Down_0
+  - first:
+      213: 395131334429636163
+    second: AncientLich_Charge_Down_1
+  - first:
+      213: 321250935352989669
+    second: AncientLich_Charge_Down_2
+  - first:
+      213: 234641591166856555
+    second: AncientLich_Charge_Down_3
+  - first:
+      213: 994284113536716440
+    second: AncientLich_Charge_Down_4
+  - first:
+      213: 353684448694085254
+    second: AncientLich_Charge_Down_5
+  - first:
+      213: 385169580104753464
+    second: AncientLich_Charge_Up_0
+  - first:
+      213: 331321500937773523
+    second: AncientLich_Charge_Up_1
+  - first:
+      213: 925553820750885406
+    second: AncientLich_Charge_Up_2
+  - first:
+      213: 86574616650335691
+    second: AncientLich_Charge_Up_3
+  - first:
+      213: 1136390689127031028
+    second: AncientLich_Charge_Up_4
+  - first:
+      213: 719134039377975129
+    second: AncientLich_Charge_Up_5
+  - first:
+      213: 393052139708129099
+    second: AncientLich_Charge_Side_0
+  - first:
+      213: 8134754524673299
+    second: AncientLich_Charge_Side_1
+  - first:
+      213: 4934834555953895
+    second: AncientLich_Charge_Side_2
+  - first:
+      213: 979078532531440076
+    second: AncientLich_Charge_Side_3
+  - first:
+      213: 320767578409822633
+    second: AncientLich_Charge_Side_4
+  - first:
+      213: 430351205720819923
+    second: AncientLich_Charge_Side_5
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AncientLich_Idle_Down_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a90f5dfa2fbed80464e4b458304096
+      internalID: 1124370442675747821
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Idle_Down_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0d32fe70f36c39370ea8511737290a
+      internalID: 139843791141942979
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Idle_Down_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f580eeff837d3c825c3da0fdbef22000
+      internalID: 1105650132343837640
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Idle_Down_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6c3028d946361b0bfd5e10917b64b2
+      internalID: 483788425721570145
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Idle_Up_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1978b2843c630af1118be784953321e1
+      internalID: 114713320573251759
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Idle_Up_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7148fb0ede75f236816898708a80fb90
+      internalID: 510190647868088099
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Idle_Up_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1706882f8571ed92368627788d918b
+      internalID: 572362221828986654
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Idle_Up_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4bf29eaa78189728b72878d0a3ffa9f
+      internalID: 886068514987186327
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Idle_Side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13dbdde61345d75cb349511c8797baa
+      internalID: 1086453681220699607
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Idle_Side_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12b1e3250e75c1587c352877e6c95ce
+      internalID: 725838079097468353
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Idle_Side_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97624b54dc8015fd2dc449a3e68396ae
+      internalID: 681772754705842527
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Idle_Side_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84dc4d6b11ece52db2cf2cdb73a296e0
+      internalID: 598350751883775570
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Walk_Down_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c500ea180a6af61f6f2fd58f465541a3
+      internalID: 887225213402918753
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Walk_Down_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3637b0b6782d410c2c61d9fb7bb749d3
+      internalID: 244174093719622672
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Walk_Down_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec6cff9b303b03727f48ee64755f149
+      internalID: 354778315731516163
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Walk_Down_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571330a78e2c6c55906a82f20521a73c
+      internalID: 392150762628761285
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Walk_Down_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38ac9adaa9c451b79da55afb63f4c7e
+      internalID: 808585914206504017
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Walk_Down_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d99a2d15df90dbc051b77927165e89
+      internalID: 292058475425298701
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Walk_Up_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab6ac81ccd531a609b50cce655484ec
+      internalID: 408537598916383514
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Walk_Up_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9fc4a943188db8638ca0484898d9c16
+      internalID: 837604286968401336
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Walk_Up_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7d603032c3ac68c8fb804809b91468
+      internalID: 204867616495123142
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Walk_Up_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e916533bc67483d7a233d61de255f6
+      internalID: 684144057252603720
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Walk_Up_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2cb533088f1e12d7949aaeb9fd9fed1
+      internalID: 1021390446297816594
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Walk_Up_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07188a4f8047ac365ec668c0cb17a4d3
+      internalID: 31956914485361347
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Walk_Side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7116469c1c0dec09987a475c1714b049
+      internalID: 509298638254563008
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Walk_Side_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e97b80e5f968951e27d8e123707920
+      internalID: 13114665699612297
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Walk_Side_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f682b8dd7e581514e0312a6a25023e3
+      internalID: 213501762848315413
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Walk_Side_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d271e44c72bb435f47a6186048f0768
+      internalID: 347465346610019139
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Walk_Side_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659d1c3704cfa316ce9541202e252b12
+      internalID: 457627474487736881
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Walk_Side_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a9091698e51d0b7498ed34b07d24a4
+      internalID: 651492050324050384
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Attack_Down_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d32c40020d1ea5df9424164b90b776f
+      internalID: 635900625813315237
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Attack_Down_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c084d3a44c1bbb6d48f063cbf7caab5e
+      internalID: 867027840925809590
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Attack_Down_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9609444d43e16cdf84fb9be8cb31a7f
+      internalID: 1123095346034237804
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Attack_Down_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd34d68ed4d7b7efaebb57b2a669a57
+      internalID: 1080077581762746295
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Attack_Up_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc942eec35c8a68b8b542d872fb39cd
+      internalID: 206202612204554406
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Attack_Up_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efbc5754d2254972c706845113c38024
+      internalID: 1079673643281306775
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Attack_Up_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285e9faeb04596250edd43d835658b8f
+      internalID: 181808623872399714
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Attack_Up_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f429558c65a071d90fd7682cf599e47
+      internalID: 717243688063180913
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Attack_Side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61de2feb323e00716ec736eb89648af7
+      internalID: 440757922107219975
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Attack_Side_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aca88ae13404cb5e29ba58caac60578
+      internalID: 480944574659036363
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Attack_Side_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cb4b413c79d1ebc4da0c0316d58afe
+      internalID: 372871554683870494
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Attack_Side_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5b312682d7b13485d343dbecbdc023
+      internalID: 861791795349912339
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Slam_Down_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40a233573caaf9f32736806f0c8fe43
+      internalID: 738768680279386873
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Slam_Down_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709f221840cc376c40027141eea41ad6
+      internalID: 507202658819162998
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Slam_Down_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3f52845fc1ba4f0c758265c65c1198
+      internalID: 933359101117471652
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Slam_Down_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf1037c4229e563647e1672ba64f4d1
+      internalID: 1058082269155204694
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Slam_Up_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00479158788b03fde11832e9bb1c5dd1
+      internalID: 1259033281998911
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Slam_Up_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190cfc604b7dc5b8f6831988279e4d98
+      internalID: 112818440073895003
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Slam_Up_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e9c5004fc73e9d5babdc6f221b3a7f
+      internalID: 1044444031091504105
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Slam_Up_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e544888386d5d79d0afa7599039c4dbc
+      internalID: 1032529964474129785
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Slam_Side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406c1eda0ddd49fc5124270f1412ae0d
+      internalID: 290132452362278047
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Slam_Side_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cdd098d394d0c7902ef9a51183c6c17
+      internalID: 418219695218675911
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Slam_Side_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac2acb2baba0a2f2775d4371df61f13
+      internalID: 192575936169484450
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Slam_Side_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2718f91d081d8ae9b4b93f9c27165d19
+      internalID: 176079716875360430
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Charge_Down_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01f426bd9fb9ff8ec7c6be7cc42cdca
+      internalID: 937298644697070079
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Charge_Down_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57bc9daec4df643e3b043ea21737055c
+      internalID: 395131334429636163
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Charge_Down_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47550060d7a17e533ec4035c77e34fda
+      internalID: 321250935352989669
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Charge_Down_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3419d48b3086d6b05b78ae64b1b8d595
+      internalID: 234641591166856555
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Charge_Down_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc6822212b8e9832d69385242a7d269
+      internalID: 994284113536716440
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Charge_Down_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e88a21d6fda686d7c94ca96f046fb4d
+      internalID: 353684448694085254
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Charge_Up_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55865b1406e2138ee1a9fdbc9a7b3c5e
+      internalID: 385169580104753464
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Charge_Up_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499172651d861d3bff7866198327bb06
+      internalID: 331321500937773523
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Charge_Up_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd83a4bd25cb21e964856b2cbd645ccf
+      internalID: 925553820750885406
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Charge_Up_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1339327b80245cba7bcb94082408ad39
+      internalID: 86574616650335691
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Charge_Up_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5454f977a60f478fef5d7facf13532
+      internalID: 1136390689127031028
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Charge_Up_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fae09943041759f13bf02bf45ce4b45
+      internalID: 719134039377975129
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Charge_Side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57466d6ad829f4bbf1093e661dc84630
+      internalID: 393052139708129099
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Charge_Side_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ce68421c73513a266b8256189cbf6f
+      internalID: 8134754524673299
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Charge_Side_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0118834b4bba2e76a021a6f884ac6143
+      internalID: 4934834555953895
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Charge_Side_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9662bceabf49cc886739673aa6b12f0
+      internalID: 979078532531440076
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Charge_Side_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4739869be9469a9fe708085f4deebc23
+      internalID: 320767578409822633
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientLich_Charge_Side_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8ea2439a688d338eb58a75b112a63b
+      internalID: 430351205720819923
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    outline: []
+    customData:
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices:
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AncientLich_Idle_Down_0: 1124370442675747821
+      AncientLich_Idle_Down_1: 139843791141942979
+      AncientLich_Idle_Down_2: 1105650132343837640
+      AncientLich_Idle_Down_3: 483788425721570145
+      AncientLich_Idle_Up_0: 114713320573251759
+      AncientLich_Idle_Up_1: 510190647868088099
+      AncientLich_Idle_Up_2: 572362221828986654
+      AncientLich_Idle_Up_3: 886068514987186327
+      AncientLich_Idle_Side_0: 1086453681220699607
+      AncientLich_Idle_Side_1: 725838079097468353
+      AncientLich_Idle_Side_2: 681772754705842527
+      AncientLich_Idle_Side_3: 598350751883775570
+      AncientLich_Walk_Down_0: 887225213402918753
+      AncientLich_Walk_Down_1: 244174093719622672
+      AncientLich_Walk_Down_2: 354778315731516163
+      AncientLich_Walk_Down_3: 392150762628761285
+      AncientLich_Walk_Down_4: 808585914206504017
+      AncientLich_Walk_Down_5: 292058475425298701
+      AncientLich_Walk_Up_0: 408537598916383514
+      AncientLich_Walk_Up_1: 837604286968401336
+      AncientLich_Walk_Up_2: 204867616495123142
+      AncientLich_Walk_Up_3: 684144057252603720
+      AncientLich_Walk_Up_4: 1021390446297816594
+      AncientLich_Walk_Up_5: 31956914485361347
+      AncientLich_Walk_Side_0: 509298638254563008
+      AncientLich_Walk_Side_1: 13114665699612297
+      AncientLich_Walk_Side_2: 213501762848315413
+      AncientLich_Walk_Side_3: 347465346610019139
+      AncientLich_Walk_Side_4: 457627474487736881
+      AncientLich_Walk_Side_5: 651492050324050384
+      AncientLich_Attack_Down_0: 635900625813315237
+      AncientLich_Attack_Down_1: 867027840925809590
+      AncientLich_Attack_Down_2: 1123095346034237804
+      AncientLich_Attack_Down_3: 1080077581762746295
+      AncientLich_Attack_Up_0: 206202612204554406
+      AncientLich_Attack_Up_1: 1079673643281306775
+      AncientLich_Attack_Up_2: 181808623872399714
+      AncientLich_Attack_Up_3: 717243688063180913
+      AncientLich_Attack_Side_0: 440757922107219975
+      AncientLich_Attack_Side_1: 480944574659036363
+      AncientLich_Attack_Side_2: 372871554683870494
+      AncientLich_Attack_Side_3: 861791795349912339
+      AncientLich_Slam_Down_0: 738768680279386873
+      AncientLich_Slam_Down_1: 507202658819162998
+      AncientLich_Slam_Down_2: 933359101117471652
+      AncientLich_Slam_Down_3: 1058082269155204694
+      AncientLich_Slam_Up_0: 1259033281998911
+      AncientLich_Slam_Up_1: 112818440073895003
+      AncientLich_Slam_Up_2: 1044444031091504105
+      AncientLich_Slam_Up_3: 1032529964474129785
+      AncientLich_Slam_Side_0: 290132452362278047
+      AncientLich_Slam_Side_1: 418219695218675911
+      AncientLich_Slam_Side_2: 192575936169484450
+      AncientLich_Slam_Side_3: 176079716875360430
+      AncientLich_Charge_Down_0: 937298644697070079
+      AncientLich_Charge_Down_1: 395131334429636163
+      AncientLich_Charge_Down_2: 321250935352989669
+      AncientLich_Charge_Down_3: 234641591166856555
+      AncientLich_Charge_Down_4: 994284113536716440
+      AncientLich_Charge_Down_5: 353684448694085254
+      AncientLich_Charge_Up_0: 385169580104753464
+      AncientLich_Charge_Up_1: 331321500937773523
+      AncientLich_Charge_Up_2: 925553820750885406
+      AncientLich_Charge_Up_3: 86574616650335691
+      AncientLich_Charge_Up_4: 1136390689127031028
+      AncientLich_Charge_Up_5: 719134039377975129
+      AncientLich_Charge_Side_0: 393052139708129099
+      AncientLich_Charge_Side_1: 8134754524673299
+      AncientLich_Charge_Side_2: 4934834555953895
+      AncientLich_Charge_Side_3: 979078532531440076
+      AncientLich_Charge_Side_4: 320767578409822633
+      AncientLich_Charge_Side_5: 430351205720819923
+  mipmapLimitGroupName:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:

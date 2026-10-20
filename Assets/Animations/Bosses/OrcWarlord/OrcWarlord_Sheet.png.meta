@@ -1,0 +1,1924 @@
+fileFormatVersion: 2
+guid: d7ac2000ba96036d279d27705dea3171
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 997284581581941241
+    second: OrcWarlord_Idle_Down_0
+  - first:
+      213: 935910416507690647
+    second: OrcWarlord_Idle_Down_1
+  - first:
+      213: 483749423194679843
+    second: OrcWarlord_Idle_Down_2
+  - first:
+      213: 386826221243539668
+    second: OrcWarlord_Idle_Down_3
+  - first:
+      213: 742424292596360260
+    second: OrcWarlord_Idle_Up_0
+  - first:
+      213: 919645276781736258
+    second: OrcWarlord_Idle_Up_1
+  - first:
+      213: 175825474526779280
+    second: OrcWarlord_Idle_Up_2
+  - first:
+      213: 798444169665919481
+    second: OrcWarlord_Idle_Up_3
+  - first:
+      213: 509656756722612835
+    second: OrcWarlord_Idle_Side_0
+  - first:
+      213: 163837932146139903
+    second: OrcWarlord_Idle_Side_1
+  - first:
+      213: 818538518801840035
+    second: OrcWarlord_Idle_Side_2
+  - first:
+      213: 249613806243701943
+    second: OrcWarlord_Idle_Side_3
+  - first:
+      213: 1099188455832285616
+    second: OrcWarlord_Walk_Down_0
+  - first:
+      213: 296776758441916087
+    second: OrcWarlord_Walk_Down_1
+  - first:
+      213: 1058252342665828737
+    second: OrcWarlord_Walk_Down_2
+  - first:
+      213: 589568917742452429
+    second: OrcWarlord_Walk_Down_3
+  - first:
+      213: 738882842281434702
+    second: OrcWarlord_Walk_Down_4
+  - first:
+      213: 853286127561377128
+    second: OrcWarlord_Walk_Down_5
+  - first:
+      213: 862735272186587270
+    second: OrcWarlord_Walk_Up_0
+  - first:
+      213: 960163324459947492
+    second: OrcWarlord_Walk_Up_1
+  - first:
+      213: 1130212972256327858
+    second: OrcWarlord_Walk_Up_2
+  - first:
+      213: 511174228324342093
+    second: OrcWarlord_Walk_Up_3
+  - first:
+      213: 65718353059146156
+    second: OrcWarlord_Walk_Up_4
+  - first:
+      213: 474851608565413073
+    second: OrcWarlord_Walk_Up_5
+  - first:
+      213: 256033681603063898
+    second: OrcWarlord_Walk_Side_0
+  - first:
+      213: 75519621405736959
+    second: OrcWarlord_Walk_Side_1
+  - first:
+      213: 866441340691930186
+    second: OrcWarlord_Walk_Side_2
+  - first:
+      213: 164234556740229513
+    second: OrcWarlord_Walk_Side_3
+  - first:
+      213: 998275122791941355
+    second: OrcWarlord_Walk_Side_4
+  - first:
+      213: 563322100671305477
+    second: OrcWarlord_Walk_Side_5
+  - first:
+      213: 635313343201410327
+    second: OrcWarlord_Attack_Down_0
+  - first:
+      213: 689181210931761223
+    second: OrcWarlord_Attack_Down_1
+  - first:
+      213: 412804092873485853
+    second: OrcWarlord_Attack_Down_2
+  - first:
+      213: 428494675853880405
+    second: OrcWarlord_Attack_Down_3
+  - first:
+      213: 259660888102329958
+    second: OrcWarlord_Attack_Up_0
+  - first:
+      213: 803947276365205413
+    second: OrcWarlord_Attack_Up_1
+  - first:
+      213: 972785418733556345
+    second: OrcWarlord_Attack_Up_2
+  - first:
+      213: 931500863259408586
+    second: OrcWarlord_Attack_Up_3
+  - first:
+      213: 153639251531728774
+    second: OrcWarlord_Attack_Side_0
+  - first:
+      213: 903188054342623005
+    second: OrcWarlord_Attack_Side_1
+  - first:
+      213: 638879641788890619
+    second: OrcWarlord_Attack_Side_2
+  - first:
+      213: 779479547643030410
+    second: OrcWarlord_Attack_Side_3
+  - first:
+      213: 744098278158645697
+    second: OrcWarlord_Slam_Down_0
+  - first:
+      213: 59171970871832717
+    second: OrcWarlord_Slam_Down_1
+  - first:
+      213: 366060302250022495
+    second: OrcWarlord_Slam_Down_2
+  - first:
+      213: 1110401552769196273
+    second: OrcWarlord_Slam_Down_3
+  - first:
+      213: 880866557221155207
+    second: OrcWarlord_Slam_Down_4
+  - first:
+      213: 1050379334059105249
+    second: OrcWarlord_Slam_Up_0
+  - first:
+      213: 533839466041059006
+    second: OrcWarlord_Slam_Up_1
+  - first:
+      213: 123064009224282190
+    second: OrcWarlord_Slam_Up_2
+  - first:
+      213: 866406098269653649
+    second: OrcWarlord_Slam_Up_3
+  - first:
+      213: 472736756928439458
+    second: OrcWarlord_Slam_Up_4
+  - first:
+      213: 911349771006747240
+    second: OrcWarlord_Slam_Side_0
+  - first:
+      213: 494475587069263481
+    second: OrcWarlord_Slam_Side_1
+  - first:
+      213: 705574965323613948
+    second: OrcWarlord_Slam_Side_2
+  - first:
+      213: 617506594865427557
+    second: OrcWarlord_Slam_Side_3
+  - first:
+      213: 17524155487668768
+    second: OrcWarlord_Slam_Side_4
+  - first:
+      213: 150926427338426974
+    second: OrcWarlord_Charge_Down_0
+  - first:
+      213: 468265912043203804
+    second: OrcWarlord_Charge_Down_1
+  - first:
+      213: 209256525550149889
+    second: OrcWarlord_Charge_Down_2
+  - first:
+      213: 1141601062768894486
+    second: OrcWarlord_Charge_Down_3
+  - first:
+      213: 1151968420359052549
+    second: OrcWarlord_Charge_Up_0
+  - first:
+      213: 712940756051547824
+    second: OrcWarlord_Charge_Up_1
+  - first:
+      213: 442894094694761314
+    second: OrcWarlord_Charge_Up_2
+  - first:
+      213: 213354467245871503
+    second: OrcWarlord_Charge_Up_3
+  - first:
+      213: 1085518507166389194
+    second: OrcWarlord_Charge_Side_0
+  - first:
+      213: 264164137814523815
+    second: OrcWarlord_Charge_Side_1
+  - first:
+      213: 301016582832757292
+    second: OrcWarlord_Charge_Side_2
+  - first:
+      213: 579142279427523522
+    second: OrcWarlord_Charge_Side_3
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OrcWarlord_Idle_Down_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7110b092a69f97819e1b8160b8b997
+      internalID: 997284581581941241
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Idle_Down_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd0590ad875e9793b78ce59fa9e9fe9
+      internalID: 935910416507690647
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Idle_Down_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b69f8991d1aa23b61bf794086503a36
+      internalID: 483749423194679843
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Idle_Down_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e4866130720d4a72611fc9a2b9d4ac
+      internalID: 386826221243539668
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Idle_Up_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d9ef5e8d3a444936d7e8514b782800
+      internalID: 742424292596360260
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Idle_Up_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc33c81b9f0f14213b969e89718c8b91
+      internalID: 919645276781736258
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Idle_Up_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270a85667a217900fcea53a67c4da03b
+      internalID: 175825474526779280
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Idle_Up_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14a4bdf1eb39f997252fa4b0fb2c292
+      internalID: 798444169665919481
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Idle_Side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712aa1eb5d43a633cc93b37ec2a82574
+      internalID: 509656756722612835
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Idle_Side_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24611bb324e22ff32743c4c0f1166411
+      internalID: 163837932146139903
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Idle_Side_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c0872302877a37540ce02c25ee7e7a
+      internalID: 818538518801840035
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Idle_Side_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376ce6f2c3064b74ccb7bd5e096fee6e
+      internalID: 249613806243701943
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Walk_Down_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f411a13ab17f1b0853713d72f5c83ea4
+      internalID: 1099188455832285616
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Walk_Down_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e5ce3b085b6b7f91e979e26bb413a7
+      internalID: 296776758441916087
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Walk_Down_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eafaae61752598187ba2d1f72d4f3e06
+      internalID: 1058252342665828737
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Walk_Down_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e91ce98a67ecd3decf148ed3873be5
+      internalID: 589568917742452429
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Walk_Down_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a410a07c0d0de4edee5ff4b4913e519c
+      internalID: 738882842281434702
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Walk_Down_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd77b364d108568fa23cb3641718592a
+      internalID: 853286127561377128
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Walk_Up_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf90d28b9e1a8865ce48891124e625c7
+      internalID: 862735272186587270
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Walk_Up_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d532f74d8cb15e4f6ae8ef1f487f946d
+      internalID: 960163324459947492
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Walk_Up_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf52b5cbe078b27a3f9a37448327d0f
+      internalID: 1130212972256327858
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Walk_Up_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7180e40999b594d836b782b133711ca7
+      internalID: 511174228324342093
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Walk_Up_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e97a7e715069ac95d716f1b9305a11b
+      internalID: 65718353059146156
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Walk_Up_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6970305a99074d150361eb19e7c3d730
+      internalID: 474851608565413073
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Walk_Side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d9d46e27c705a9636a5122f3411ea9
+      internalID: 256033681603063898
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Walk_Side_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c4cb20f75ffff030e85963f7ea92d0
+      internalID: 75519621405736959
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Walk_Side_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0637cf0aa7dc4ad0955dd8ea3f54056
+      internalID: 866441340691930186
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Walk_Side_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2477a758e5859894fb4f8502f34d733c
+      internalID: 164234556740229513
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Walk_Side_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda95ef621f84ebc0a018c73863cd619
+      internalID: 998275122791941355
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Walk_Side_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1527748a3d7053d1787723caa3d370
+      internalID: 563322100671305477
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Attack_Down_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1161e9e95fd17ed664dcb5137350a2
+      internalID: 635313343201410327
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Attack_Down_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99076a8ef761047bbc8e96a90f188e97
+      internalID: 689181210931761223
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Attack_Down_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba9322a58d2e1d39aa2a656ba9de990
+      internalID: 412804092873485853
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Attack_Down_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f251a32e6aac557138b68d420a91bdf
+      internalID: 428494675853880405
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Attack_Up_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a8033b566de6616cf28abf08522496
+      internalID: 259660888102329958
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Attack_Up_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2831c9d1e40fa5c24dd3b1faec44814
+      internalID: 803947276365205413
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Attack_Up_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80072f2e4b1279ced1d0a70fd791cab
+      internalID: 972785418733556345
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Attack_Up_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced5b198e8bf8ca7a8797227d4e20b48
+      internalID: 931500863259408586
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Attack_Side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221d615d31b0786d3c744cb4172bf850
+      internalID: 153639251531728774
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Attack_Side_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88c4c00877df1d6358de3c51a65795e
+      internalID: 903188054342623005
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Attack_Side_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ddc1a6370e3dfb9069c94065eaf7126
+      internalID: 638879641788890619
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Attack_Side_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad14484caf1eb8a7b3801afbced0472e
+      internalID: 779479547643030410
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Slam_Down_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5391710ba039c1446a7fec743f6be90
+      internalID: 744098278158645697
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Slam_Down_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d238981079b08dec68690abbe3a975d
+      internalID: 59171970871832717
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Slam_Down_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51481e7c9fc165f7caa11073f1eb2297
+      internalID: 366060302250022495
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Slam_Down_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68f0543ed9a0f1199f213a22e325022
+      internalID: 1110401552769196273
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Slam_Down_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3977777db03187b05ad9bc3396980da
+      internalID: 880866557221155207
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Slam_Up_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93b2706e011be194acb956bcdf78824
+      internalID: 1050379334059105249
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Slam_Up_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768942a7c7626bebf5c5beb2befa12f8
+      internalID: 533839466041059006
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Slam_Up_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b536107a72e04e5296716f9b4c3642b
+      internalID: 123064009224282190
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Slam_Up_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0617c186984a918445d6f98cc1a0b35
+      internalID: 866406098269653649
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Slam_Up_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f7f9364fd64a22b1d8ac61c6097997
+      internalID: 472736756928439458
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Slam_Side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5c3c9c6fda268cdc8b153126745f1d
+      internalID: 911349771006747240
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Slam_Side_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dcbaed355dbe79a0cb1a0aca8bb173f
+      internalID: 494475587069263481
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Slam_Side_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cab4b15285c6fcad6c7ca789838abc3
+      internalID: 705574965323613948
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Slam_Side_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891d2f9f16a3465d288561234569818b
+      internalID: 617506594865427557
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Slam_Side_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e422066d4ca202aaa792b137161edb
+      internalID: 17524155487668768
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Charge_Down_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21832c938b9ca5e90c9299002ced3310
+      internalID: 150926427338426974
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Charge_Down_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f9d5db3c26cdc09792b866c699199a
+      internalID: 468265912043203804
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Charge_Down_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e76db388596101d0fc872586ad06f06
+      internalID: 209256525550149889
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Charge_Down_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7c81e3d8c6216d0e31540a262d162f
+      internalID: 1141601062768894486
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Charge_Up_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc9d2cc7f81d05352ee11685f17fbbf
+      internalID: 1151968420359052549
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Charge_Up_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4dfd71e59d6b0c90f4a136e6d33ba8
+      internalID: 712940756051547824
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Charge_Up_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62579d5236643629bc011e26a5b7eecb
+      internalID: 442894094694761314
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Charge_Up_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5fcc1ef6ed18f638b67618e3c3dfc4
+      internalID: 213354467245871503
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Charge_Side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f108954b8c3d3caaaee1b6ea8ef48965
+      internalID: 1085518507166389194
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Charge_Side_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa7fe23cd4ffa71608c83329c3b9f23
+      internalID: 264164137814523815
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Charge_Side_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d6cfcbb3f9a2cef867f66d472fbb53
+      internalID: 301016582832757292
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWarlord_Charge_Side_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80986d5afb003c2fcdb7040f7af80c0a
+      internalID: 579142279427523522
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    outline: []
+    customData:
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices:
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      OrcWarlord_Idle_Down_0: 997284581581941241
+      OrcWarlord_Idle_Down_1: 935910416507690647
+      OrcWarlord_Idle_Down_2: 483749423194679843
+      OrcWarlord_Idle_Down_3: 386826221243539668
+      OrcWarlord_Idle_Up_0: 742424292596360260
+      OrcWarlord_Idle_Up_1: 919645276781736258
+      OrcWarlord_Idle_Up_2: 175825474526779280
+      OrcWarlord_Idle_Up_3: 798444169665919481
+      OrcWarlord_Idle_Side_0: 509656756722612835
+      OrcWarlord_Idle_Side_1: 163837932146139903
+      OrcWarlord_Idle_Side_2: 818538518801840035
+      OrcWarlord_Idle_Side_3: 249613806243701943
+      OrcWarlord_Walk_Down_0: 1099188455832285616
+      OrcWarlord_Walk_Down_1: 296776758441916087
+      OrcWarlord_Walk_Down_2: 1058252342665828737
+      OrcWarlord_Walk_Down_3: 589568917742452429
+      OrcWarlord_Walk_Down_4: 738882842281434702
+      OrcWarlord_Walk_Down_5: 853286127561377128
+      OrcWarlord_Walk_Up_0: 862735272186587270
+      OrcWarlord_Walk_Up_1: 960163324459947492
+      OrcWarlord_Walk_Up_2: 1130212972256327858
+      OrcWarlord_Walk_Up_3: 511174228324342093
+      OrcWarlord_Walk_Up_4: 65718353059146156
+      OrcWarlord_Walk_Up_5: 474851608565413073
+      OrcWarlord_Walk_Side_0: 256033681603063898
+      OrcWarlord_Walk_Side_1: 75519621405736959
+      OrcWarlord_Walk_Side_2: 866441340691930186
+      OrcWarlord_Walk_Side_3: 164234556740229513
+      OrcWarlord_Walk_Side_4: 998275122791941355
+      OrcWarlord_Walk_Side_5: 563322100671305477
+      OrcWarlord_Attack_Down_0: 635313343201410327
+      OrcWarlord_Attack_Down_1: 689181210931761223
+      OrcWarlord_Attack_Down_2: 412804092873485853
+      OrcWarlord_Attack_Down_3: 428494675853880405
+      OrcWarlord_Attack_Up_0: 259660888102329958
+      OrcWarlord_Attack_Up_1: 803947276365205413
+      OrcWarlord_Attack_Up_2: 972785418733556345
+      OrcWarlord_Attack_Up_3: 931500863259408586
+      OrcWarlord_Attack_Side_0: 153639251531728774
+      OrcWarlord_Attack_Side_1: 903188054342623005
+      OrcWarlord_Attack_Side_2: 638879641788890619
+      OrcWarlord_Attack_Side_3: 779479547643030410
+      OrcWarlord_Slam_Down_0: 744098278158645697
+      OrcWarlord_Slam_Down_1: 59171970871832717
+      OrcWarlord_Slam_Down_2: 366060302250022495
+      OrcWarlord_Slam_Down_3: 1110401552769196273
+      OrcWarlord_Slam_Down_4: 880866557221155207
+      OrcWarlord_Slam_Up_0: 1050379334059105249
+      OrcWarlord_Slam_Up_1: 533839466041059006
+      OrcWarlord_Slam_Up_2: 123064009224282190
+      OrcWarlord_Slam_Up_3: 866406098269653649
+      OrcWarlord_Slam_Up_4: 472736756928439458
+      OrcWarlord_Slam_Side_0: 911349771006747240
+      OrcWarlord_Slam_Side_1: 494475587069263481
+      OrcWarlord_Slam_Side_2: 705574965323613948
+      OrcWarlord_Slam_Side_3: 617506594865427557
+      OrcWarlord_Slam_Side_4: 17524155487668768
+      OrcWarlord_Charge_Down_0: 150926427338426974
+      OrcWarlord_Charge_Down_1: 468265912043203804
+      OrcWarlord_Charge_Down_2: 209256525550149889
+      OrcWarlord_Charge_Down_3: 1141601062768894486
+      OrcWarlord_Charge_Up_0: 1151968420359052549
+      OrcWarlord_Charge_Up_1: 712940756051547824
+      OrcWarlord_Charge_Up_2: 442894094694761314
+      OrcWarlord_Charge_Up_3: 213354467245871503
+      OrcWarlord_Charge_Side_0: 1085518507166389194
+      OrcWarlord_Charge_Side_1: 264164137814523815
+      OrcWarlord_Charge_Side_2: 301016582832757292
+      OrcWarlord_Charge_Side_3: 579142279427523522
+  mipmapLimitGroupName:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:

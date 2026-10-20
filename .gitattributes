@@ -1,0 +1,22 @@
+# Normalise text files; Unity's YAML assets merge as text
+* text=auto
+
+*.cs        text diff=csharp
+*.py        text
+*.md        text
+*.unity     text eol=lf
+*.prefab    text eol=lf
+*.asset     text eol=lf
+*.meta      text eol=lf
+*.anim      text eol=lf
+*.controller text eol=lf
+*.overrideController text eol=lf
+
+# Binary assets
+*.png  binary
+*.jpg  binary
+*.gif  binary
+*.wav  binary
+*.ttf  binary
+*.otf  binary
+*.zip  binary
